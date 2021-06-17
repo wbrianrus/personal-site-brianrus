@@ -1,0 +1,264 @@
+{
+  "main": {
+    "name": "Brian Rus",
+    "occupation": "Data and Analytics Consultant",
+    "description": "I enjoy ",
+    "image": "profilepic.jpg",
+    "bio": "I'm a San Francisco Bay Area based Principal Consulant that enjoys learning new technologies and building things with them. Whether it's a new language, framework, BI tool, or storage system for truck campers, I find enjoyment learning how something works and creating my interpretation of it.",
+    "bio2": "When I'm not building things I spend my weekends sailing, hiking, biking, camping, or any other activity that gets me out. ",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "brian@brianr.us",
+    "phone": "",
+    "address": {
+      "street": "(Your Street)",
+      "city": "San Francisco Bay Area",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/wBrian.rus/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/brian_rus",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/brianrus/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/brianrus/",
+        "className": "fa fa-instagram"
+      }
+    
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "San Jose State University",
+        "degree": "Bachelor of Science (B.S.), Management Information Systems",
+        "graduated": "June 2014",
+        "description": "Active member in a number of organizations, including the Gary J. Sbona Honors Practicum, Thompson Global Internship Program (TGIP), Management Information Systems Association (MISA), and the Delta Upsilon International Fraternity (DU).",
+        "description2": ""
+      }
+    ],
+    "bullets": [
+      {
+        "name": "1",
+        "value": "Completed the Gary J. Sbona Honors Program in the College of Business, San Jose State University"
+      },
+      {
+        "name": "2",
+        "value": "Completed the Gary J. Sbona Honors Program in the College of Business, San Jose State University"
+      },
+      {
+        "name": "3",
+        "value": "Completed the Gary J. Sbona Honors Program in the College of Business, San Jose State University"
+      },
+      {
+        "name": "4",
+        "value": "Completed the Gary J. Sbona Honors Program in the College of Business, San Jose State University"
+      }
+    ],
+    "work": [
+      {
+        "company": "Acxiom",
+        "title": "Principal Consultant",
+        "years": "September 2017 - Present",
+        "description": "Working with clients and internal stakeholders to bring actionable insights with an enjoyable user experience. We've built a team around our newly established cloud based offerings and are bringing them to market."
+      },
+      {
+        "company": "Teradata",
+        "title": "Consultant",
+        "years": "June 2015 - September 2017",
+        "description": "Business Intelligence consultant primarily focused in Tableau development and maintaining the Teradata EDW for clients."
+      },
+      {
+        "company": "NASA Ames Research Center",
+        "title": "Web Development Intern",
+        "years": "August 2013 - June 2015",
+        "description": "Building internal tools for the Programs and Management office."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Illustrator",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Claritas Segment Opportunity Matrix",
+        "category": "",
+        "image": "w1.jpg",
+        "url": "w1-full.jpg"
+      },
+      {
+        "title": "Makeover Monday - World's Toughest Sports",
+        "category": "",
+        "image": "w2.jpg",
+        "url": "w2-full.jpg"
+      },
+      {
+        "title": "Campaign Flight Performance",
+        "category": "",
+        "image": "w3.jpg",
+        "url": "w3-full.jpg"
+      },
+      {
+        "title": "Customer Profiling - DMA Penetration",
+        "category": "",
+        "image": "w4.jpg",
+        "url": "w4-full.jpg"
+      },
+      {
+        "title": "HVA Creation and Geotargeting",
+        "category": "",
+        "image": "w5.jpg",
+        "url": "w5-full.jpg"
+      },
+      {
+        "title": "Survey Analysis",
+        "category": "",
+        "image": "w7.jpg",
+        "url": "w7-full.jpg"
+      },
+      {
+        "title": "Data Portrait Analysis",
+        "category": "",
+        "image": "w8.jpg",
+        "url": "w8-full.jpg"
+      },
+      {
+        "title": "Demographic Reporting",
+        "category": "",
+        "image": "w9.jpg",
+        "url": "w10-full.jpg"
+      }
+    ]
+  },
+  "portfolio2": {
+    "fun": [
+      {
+        "title": "Climbing Mt. Shasta",
+        "category": "",
+        "image": "f1-e.jpg",
+        "url": "f1-full.jpeg"
+      },
+      {
+        "title": "Camping in Mammoth",
+        "category": "",
+        "image": "f2-e.jpg",
+        "url": "f2-full.jpeg"
+      },
+      {
+        "title": "Sailing on the SF Bay",
+        "category": "",
+        "image": "f3-e.jpg",
+        "url": "f3-full.jpeg"
+      },
+      {
+        "title": "Great Vallejo Race",
+        "category": "San Francisco OYRA Racing",
+        "image": "f13-e.jpg",
+        "url": "f13-full.jpeg"
+      },
+      {
+        "title": "Exploring Big Sur",
+        "category": "",
+        "image": "f6-e.jpg",
+        "url": "f6-full.jpeg"
+      },
+      {
+        "title": "My Baby",
+        "category": "99 XJ",
+        "image": "f9-e.jpg",
+        "url": "f9-full.jpg"
+      },
+      {
+        "title": "Coffee on the Nā Pali Coast",
+        "category": "After backpacking the Kalalau Trail in Hawaii",
+        "image": "f11-e.jpg",
+        "url": "f11-full.jpeg"
+      },
+      {
+        "title": "Swimming in the North Pacific High",
+        "category": "Basically the middle of the ocean",
+        "image": "f12-e.jpg",
+        "url": "f12-full.jpg"
+      },
+      {
+        "title": "Camping above the Pacific",
+        "category": "",
+        "image": "f7-e.jpg",
+        "url": "f7-full.jpeg"
+      },
+      {
+        "title": "Skiing in Tahoe",
+        "category": "",
+        "image": "f5-e.jpg",
+        "url": "f5-full.jpeg"
+      },
+      {
+        "title": "Climbing in Alabama Hills",
+        "category": "",
+        "image": "f4-e.jpg",
+        "url": "f4-full.jpeg"
+      },
+      {
+        "title": "Hanging out and Reading",
+        "category": "",
+        "image": "f8-e.jpg",
+        "url": "f8-full.jpeg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
